@@ -1,0 +1,5 @@
+{
+  "name": "Pose Generator",
+  "description": "An application that uses the Gemini API (Nano Banana) to generate new character poses from an existing image and a text prompt.",
+  "requestFramePermissions": []
+}
